@@ -102,4 +102,4 @@ In this method we change the text of the label , using <i><b>setText</b></i> , t
   This means that <i>MyEHandler</i> class has an access all members and methods of <b>Form1</b>.(<i>Including <b>private</b> members !</i>) 
   </p>
   
-<i>Any questions : zeynepoguz@gmail.com , Have a nice day!</i> 
+<i>Any questions : zeynepoguz16@gmail.com , Have a nice day!</i> 
